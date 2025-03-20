@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+.book {
+    display: inline-block;
+    margin: 10px;
+}
+
+.book img {
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+}
